@@ -188,4 +188,4 @@ GitHub Repository:
 https://github.com/shanma621/Project-Build-an-ML-Pipeline-Starter
 
 Weights & Biases Project:
-https://wandb.ai/ssieb13-western-governors-university/nyc_airbnb/overview
+https://wandb.ai/ssieb13-western-governors-university/nyc_airbnb
